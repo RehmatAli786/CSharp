@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Learning\\C#\\Extension\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1B6BBC8D-440D-449D-9DB4-86EA61AD528E}|Extension.ToProperMethod\\Extension.ToProperMethod.csproj|d:\\learning\\c#\\extension\\extension.topropermethod\\staticclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B6BBC8D-440D-449D-9DB4-86EA61AD528E}|Extension.ToProperMethod\\Extension.ToProperMethod.csproj|solutionrelative:extension.topropermethod\\staticclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B6BBC8D-440D-449D-9DB4-86EA61AD528E}|Extension.ToProperMethod\\Extension.ToProperMethod.csproj|d:\\learning\\c#\\extension\\extension.topropermethod\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B6BBC8D-440D-449D-9DB4-86EA61AD528E}|Extension.ToProperMethod\\Extension.ToProperMethod.csproj|solutionrelative:extension.topropermethod\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StaticClass.cs",
+              "DocumentMoniker": "D:\\Learning\\C#\\Extension\\Extension.ToProperMethod\\StaticClass.cs",
+              "RelativeDocumentMoniker": "Extension.ToProperMethod\\StaticClass.cs",
+              "ToolTip": "D:\\Learning\\C#\\Extension\\Extension.ToProperMethod\\StaticClass.cs",
+              "RelativeToolTip": "Extension.ToProperMethod\\StaticClass.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAcwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T19:51:38.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Learning\\C#\\Extension\\Extension.ToProperMethod\\Program.cs",
+              "RelativeDocumentMoniker": "Extension.ToProperMethod\\Program.cs",
+              "ToolTip": "D:\\Learning\\C#\\Extension\\Extension.ToProperMethod\\Program.cs",
+              "RelativeToolTip": "Extension.ToProperMethod\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T19:50:58.891Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

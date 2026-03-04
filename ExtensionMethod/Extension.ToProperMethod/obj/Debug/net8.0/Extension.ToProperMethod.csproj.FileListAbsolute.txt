@@ -1,0 +1,14 @@
+D:\Learning\C#\Extension\Extension.ToProperMethod\bin\Debug\net8.0\Extension.ToProperMethod.exe
+D:\Learning\C#\Extension\Extension.ToProperMethod\bin\Debug\net8.0\Extension.ToProperMethod.deps.json
+D:\Learning\C#\Extension\Extension.ToProperMethod\bin\Debug\net8.0\Extension.ToProperMethod.runtimeconfig.json
+D:\Learning\C#\Extension\Extension.ToProperMethod\bin\Debug\net8.0\Extension.ToProperMethod.dll
+D:\Learning\C#\Extension\Extension.ToProperMethod\bin\Debug\net8.0\Extension.ToProperMethod.pdb
+D:\Learning\C#\Extension\Extension.ToProperMethod\obj\Debug\net8.0\Extension.ToProperMethod.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning\C#\Extension\Extension.ToProperMethod\obj\Debug\net8.0\Extension.ToProperMethod.AssemblyInfoInputs.cache
+D:\Learning\C#\Extension\Extension.ToProperMethod\obj\Debug\net8.0\Extension.ToProperMethod.AssemblyInfo.cs
+D:\Learning\C#\Extension\Extension.ToProperMethod\obj\Debug\net8.0\Extension.ToProperMethod.csproj.CoreCompileInputs.cache
+D:\Learning\C#\Extension\Extension.ToProperMethod\obj\Debug\net8.0\Extension.ToProperMethod.dll
+D:\Learning\C#\Extension\Extension.ToProperMethod\obj\Debug\net8.0\refint\Extension.ToProperMethod.dll
+D:\Learning\C#\Extension\Extension.ToProperMethod\obj\Debug\net8.0\Extension.ToProperMethod.pdb
+D:\Learning\C#\Extension\Extension.ToProperMethod\obj\Debug\net8.0\Extension.ToProperMethod.genruntimeconfig.cache
+D:\Learning\C#\Extension\Extension.ToProperMethod\obj\Debug\net8.0\ref\Extension.ToProperMethod.dll

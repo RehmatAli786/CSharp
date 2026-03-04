@@ -1,0 +1,14 @@
+D:\Learning\C#\Extension\Extension.FactorialMethod\obj\Debug\net8.0\Extension.FactorialMethod.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning\C#\Extension\Extension.FactorialMethod\obj\Debug\net8.0\Extension.FactorialMethod.AssemblyInfoInputs.cache
+D:\Learning\C#\Extension\Extension.FactorialMethod\obj\Debug\net8.0\Extension.FactorialMethod.AssemblyInfo.cs
+D:\Learning\C#\Extension\Extension.FactorialMethod\obj\Debug\net8.0\Extension.FactorialMethod.csproj.CoreCompileInputs.cache
+D:\Learning\C#\Extension\Extension.FactorialMethod\bin\Debug\net8.0\Extension.FactorialMethod.exe
+D:\Learning\C#\Extension\Extension.FactorialMethod\bin\Debug\net8.0\Extension.FactorialMethod.deps.json
+D:\Learning\C#\Extension\Extension.FactorialMethod\bin\Debug\net8.0\Extension.FactorialMethod.runtimeconfig.json
+D:\Learning\C#\Extension\Extension.FactorialMethod\bin\Debug\net8.0\Extension.FactorialMethod.dll
+D:\Learning\C#\Extension\Extension.FactorialMethod\bin\Debug\net8.0\Extension.FactorialMethod.pdb
+D:\Learning\C#\Extension\Extension.FactorialMethod\obj\Debug\net8.0\Extension.FactorialMethod.dll
+D:\Learning\C#\Extension\Extension.FactorialMethod\obj\Debug\net8.0\refint\Extension.FactorialMethod.dll
+D:\Learning\C#\Extension\Extension.FactorialMethod\obj\Debug\net8.0\Extension.FactorialMethod.pdb
+D:\Learning\C#\Extension\Extension.FactorialMethod\obj\Debug\net8.0\Extension.FactorialMethod.genruntimeconfig.cache
+D:\Learning\C#\Extension\Extension.FactorialMethod\obj\Debug\net8.0\ref\Extension.FactorialMethod.dll

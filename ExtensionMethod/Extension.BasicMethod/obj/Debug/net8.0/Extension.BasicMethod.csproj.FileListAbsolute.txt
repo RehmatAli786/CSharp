@@ -1,0 +1,14 @@
+D:\Learning\C#\Extension\Extension.BasicMethod\obj\Debug\net8.0\Extension.BasicMethod.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning\C#\Extension\Extension.BasicMethod\obj\Debug\net8.0\Extension.BasicMethod.AssemblyInfoInputs.cache
+D:\Learning\C#\Extension\Extension.BasicMethod\obj\Debug\net8.0\Extension.BasicMethod.AssemblyInfo.cs
+D:\Learning\C#\Extension\Extension.BasicMethod\obj\Debug\net8.0\Extension.BasicMethod.csproj.CoreCompileInputs.cache
+D:\Learning\C#\Extension\Extension.BasicMethod\bin\Debug\net8.0\Extension.BasicMethod.exe
+D:\Learning\C#\Extension\Extension.BasicMethod\bin\Debug\net8.0\Extension.BasicMethod.deps.json
+D:\Learning\C#\Extension\Extension.BasicMethod\bin\Debug\net8.0\Extension.BasicMethod.runtimeconfig.json
+D:\Learning\C#\Extension\Extension.BasicMethod\bin\Debug\net8.0\Extension.BasicMethod.dll
+D:\Learning\C#\Extension\Extension.BasicMethod\bin\Debug\net8.0\Extension.BasicMethod.pdb
+D:\Learning\C#\Extension\Extension.BasicMethod\obj\Debug\net8.0\Extension.BasicMethod.dll
+D:\Learning\C#\Extension\Extension.BasicMethod\obj\Debug\net8.0\refint\Extension.BasicMethod.dll
+D:\Learning\C#\Extension\Extension.BasicMethod\obj\Debug\net8.0\Extension.BasicMethod.pdb
+D:\Learning\C#\Extension\Extension.BasicMethod\obj\Debug\net8.0\Extension.BasicMethod.genruntimeconfig.cache
+D:\Learning\C#\Extension\Extension.BasicMethod\obj\Debug\net8.0\ref\Extension.BasicMethod.dll

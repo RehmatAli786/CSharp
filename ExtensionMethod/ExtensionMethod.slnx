@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="Extension.BasicMethod/Extension.BasicMethod.csproj" />
+  <Project Path="Extension.FactorialMethod/Extension.FactorialMethod.csproj" />
+  <Project Path="Extension.ToProperMethod/Extension.ToProperMethod.csproj" />
+</Solution>
